@@ -54,16 +54,23 @@ My portfolio repository, where I showcase my profile and development journey.
 - Developing practical AI/ML projects
 - Preparing for software development placements
 
-📊 GitHub Statistics
+## 📊 GitHub Analytics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Kunchapuvamsi71&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub statistics" />
-</p><p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kunchapuvamsi71&layout=compact&theme=tokyonight&hide_border=true" alt="Most used languages" />
-</p>---
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=Kunchapuvamsi71&show_icons=true&hide_border=true&theme=tokyonight&include_all_commits=true&rank_icon=github" alt="GitHub Statistics" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kunchapuvamsi71&layout=compact&hide_border=true&theme=tokyonight&langs_count=8" alt="Most Used Languages" />
+</p>
+
+## 🔥 Contribution Streak
 
 <p align="center">
-  <b>🌱 Learn. Build. Practice. Repeat.</b>
-</p><p align="center">
-  Thanks for visiting my profile! ⭐
+  <img src="https://streak-stats.demolab.com?user=Kunchapuvamsi71&theme=tokyonight&hide_border=true" alt="GitHub Contribution Streak" />
+</p>
+
+## 📈 Contribution Activity
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Kunchapuvamsi71&theme=tokyo-night&hide_border=true" alt="GitHub Activity Graph" />
+</p>
+visiting my profile! ⭐
 </p>
